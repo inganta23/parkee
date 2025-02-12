@@ -33,7 +33,7 @@ Ensure you have the following installed:
 
    ```sh
    git clone https://github.com/inganta23/parkee.git
-   cd parking-app
+   cd number5/frontend/parking-app
    ```
 
 2. Install dependencies:
