@@ -23,7 +23,7 @@ Before installing and running the project, ensure you have the following:
 
 ```sh
 git clone https://github.com/inganta23/parkee.git
-cd vehicle-ticket-system
+cd number5/backend
 ```
 
 ### Configure Database
