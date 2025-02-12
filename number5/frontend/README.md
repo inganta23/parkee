@@ -32,7 +32,7 @@ Ensure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-repo/parking-app-frontend.git
+   git clone https://github.com/inganta23/parkee.git
    cd parking-app-frontend
    ```
 
