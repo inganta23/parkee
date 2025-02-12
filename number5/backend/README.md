@@ -22,7 +22,7 @@ Before installing and running the project, ensure you have the following:
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/vehicle-ticket-system.git
+git clone https://github.com/inganta23/parkee.git
 cd vehicle-ticket-system
 ```
 
